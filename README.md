@@ -1,4 +1,4 @@
-# Plataforma-de-cursos-en-linea-
+# Plataforma de cursos en linea
 Plataforma de cursos en linea que permite al docente crear y llevar un seguimiento de los cursos y evaluaciones de forma automatica , en la parte administrativa llevando  una gestion de las inscripciones, permitiendo que los alumnos accedan a cursos programados, evaluaciones, calificaciones y tener un seguimiento de su curso 
 
 en esta plataforma permite al usuario realizar las siguientes acciones:
